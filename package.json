@@ -1,0 +1,24 @@
+{
+  "name": "wpt-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "elasticsearch": "^13.0.0-rc2",
+    "webpagetest": "^0.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoperations/webpagetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoperations/webpagetest/issues"
+  },
+  "homepage": "https://github.com/xoperations/webpagetest#readme"
+}
