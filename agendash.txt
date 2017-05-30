@@ -1,0 +1,1 @@
+ ./node_modules/.bin/agendash --db=mongodb://localhost/scheduled_jobs --collection=agendaCollection --port=3001
